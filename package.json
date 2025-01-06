@@ -15,16 +15,28 @@
     "sanity"
   ],
   "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.4",
+    "@sanity/asset-utils": "^2.2.1",
+    "@sanity/ui": "^2.10.18",
     "@sanity/vision": "^3.68.3",
+    "gifenc": "^1.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sanity": "^3.68.3",
     "styled-components": "^6.1.8"
   },
   "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/eslint-parser": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
+    "@eslint/js": "^9.17.0",
     "@sanity/eslint-config-studio": "^5.0.1",
     "@types/react": "^18.0.25",
     "eslint": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.14.0",
+    "lottie-web": "^5.12.2",
     "prettier": "^3.0.2",
     "typescript": "^5.1.6"
   },
